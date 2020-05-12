@@ -194,7 +194,7 @@ footer {
 
 .header-list {
   float: right;
-  background-color: rgba(255, 255, 255, 0.3);
+  
   /* Ubah property transition */
   transition: all 0.5s;
   
