@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Lucida Grande";
+  font-family: "Helvetica";
 }
 
 a {
@@ -18,7 +18,7 @@ a {
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
   color: white;
-  text-align: center;
+  text-align: right;
 }
 
 .top-wrapper h1 {
