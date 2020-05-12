@@ -192,4 +192,24 @@ footer {
    height:10%;
 }
 
+.header-list {
+  float: right;
+  background-color: rgba(255, 255, 255, 0.3);
+  /* Ubah property transition */
+  transition: all 0.5s;
+  
+}
+
+.header-list:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Tambahkan CSS untuk tag <a> didalam header-right */
+.header-list a{
+  line-height: 65px;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: white;
+  display: block;
+}
 
