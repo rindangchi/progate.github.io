@@ -92,11 +92,11 @@ header {
   float: left;
 }
 
-.header-right {
+.header-list {
   float: right;
-  background-color: rgba(255, 255, 255, 0.3);
+  
   transition: all 0.5s;
-  padding: 33px 20px;
+  
 }
 
 .header-right:hover {
