@@ -105,7 +105,7 @@ header {
 .header-list a {
   line-height: 65px;
   padding: 0 25px;
-  color: white;
+  
   display: block;
   transition: all 0.5s;
 }
@@ -209,7 +209,7 @@ footer {
   line-height: 65px;
   padding-left: 25px;
   padding-right: 25px;
-  color: white;
+
   display: block;
 }
 
